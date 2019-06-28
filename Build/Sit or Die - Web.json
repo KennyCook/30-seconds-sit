@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Sit or Die - Web.data.unityweb",
+"asmCodeUrl": "Sit or Die - Web.asm.code.unityweb",
+"asmMemoryUrl": "Sit or Die - Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Sit or Die - Web.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
